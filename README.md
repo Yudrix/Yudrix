@@ -1,4 +1,5 @@
-## Hi there 👋
+ Hi there 👋
+ https://github-readme-stats.hackclub.dev/api/wakatime?username=778&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 
 <!--
 **Yudrix/Yudrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
